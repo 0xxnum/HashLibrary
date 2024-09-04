@@ -1,5 +1,3 @@
-# Custom Hashing Algorithm
-
 ## Overview
 A simple 16-byte hashing algorithm using a customized S-box and P-box for hashing.
 
